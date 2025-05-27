@@ -1,12 +1,12 @@
 {
   "Feather Client": {
-    "update_date": "27/05/2025",
-    "version": "2.2",
-    "status": "undetected"
+    "update_date": "01/06/2025",
+    "version": "2.3",
+    "status": "detected"
   },
   "Minecraft Launcher": {
-    "update_date": "27/05/2025",
-    "version": "2.2",
-    "status": "detected"
+    "update_date": "01/06/2025",
+    "version": "2.3",
+    "status": "undetected"
   }
 }
